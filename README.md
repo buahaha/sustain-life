@@ -8,3 +8,25 @@ Here are some requirements for peace and prosperity in the world so that no one 
 If we can achieve these requirements, then it is possible to create a world where everyone has enough to eat, a place to live, and access to healthcare. In this world, no one would have to work, but everyone would be free to pursue their passions and interests.
 
 Of course, there are many challenges that we would need to overcome in order to achieve this vision. But if we can work together and find solutions to these challenges, then we can create a world that is truly peaceful and prosperous.
+
+# Work, life - balance
+
+## I can work
+
+* For __2 days__ for _someone else_
+* For __4 days__ for _me_
+* Rest for 1 day - `24 / 6 = 4`
+
+## What I do?
+
+Basically, I am inventing recipes that computers follow, I am showing how things are done and I transfer informations
+and emotions from one party to another.
+
+## What I dream to do?
+
+Forever travel with __my family__ around _the Universe_ to __fix things__, like in my song _Fixers in Town_ 
+(not recorded yet),
+or like in the game _Roadwarden_ (I have just started to play this game, and it's available on Steam, 
+works on macOS, Linux and also on Windows). I think that the same can be said about _Warhammer 40 000: Rouge Trader_
+
+So, yeah - _Elon_ - arewespaceyet?
